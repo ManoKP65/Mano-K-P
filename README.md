@@ -1,2 +1,2 @@
 # Mano-K-P
-Python Alumini, Udacity
+Udacity Alumni, Python Foundation Nanodegree.
